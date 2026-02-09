@@ -1,6 +1,6 @@
 ## Hi, I’m Jemima 👋  
 
-I’m an AI-focused software engineer with a background in computer science and hands-on experience building applied AI systems across healthcare, environmental risk, and interactive simulations.
+I’m a software engineer with a background in computer science and hands-on experience building applied AI systems across healthcare, environmental risk, and interactive simulations.
 
 I care about **using AI to make complex systems understandable, safer, and more humane**—especially in health, infrastructure, and science education.
 
@@ -54,5 +54,5 @@ I’m open to:
 
 ---
 
-⚡ Fun fact: I like building things that sit at the intersection of **engineering, storytelling, and science**.
+⚡ Fun fact: I like to build things.
 
