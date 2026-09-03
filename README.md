@@ -2,11 +2,11 @@
 
 I'm a software engineer with a background in computer science and hands-on experience building applied AI systems across healthcare, environmental risk, and interactive simulations.
 
-I care about **using AI to make complex systems understandable, safer, and more humane**—especially in health, infrastructure, and science education.
+I care about **using AI to make complex systems understandable, safer, and more humane** specifically in health, robotics, and science education.
 
 ---
 
-### Some notable projects on
+### Some of my notable projects
 - **Panacea's Passage**
   Flood-aware hospital routing system combining geospatial data, AI agents, and real-time risk analysis — presented at Impact Hub Houston Hackathon 2025 (#HouHack2025)
 - **CLAIRITY**
@@ -33,7 +33,7 @@ I care about **using AI to make complex systems understandable, safer, and more 
 ---
 
 ### Tech I use
-**Languages:** Python, C#, JavaScript, SQL, R (basic)
+**Languages:** C++, Python, C#, JavaScript, SQL
 **ML/Data:** scikit-learn, pandas, NumPy, PyTorch, TensorFlow, XGBoost, ML.NET
 **Web & Systems:** Flask, FastAPI, REST APIs, React, .NET, Docker
 **Cloud:** AWS (Cloud Practitioner certified), Microsoft Azure (AZ-900 certified)
@@ -63,8 +63,7 @@ Founder & organizer of **Tales from the Story Tree**, a community literary initi
 I'm open to:
 - Research-oriented collaborations
 - Robotics
-- Hackathons and applied AI projects
-- Building tools that sit between *research and real-world use*
+- Hackathons
 
 ---
 
